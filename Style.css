@@ -6,11 +6,11 @@ body {
 }
 header{
     width : 100%;
-    background-color: blueviolet;
+    background-color: rgb(255, 255, 255);
 
 }
 nav{
     width: 100%;
-    background: rosybrown;
+    background: rgb(255, 255, 255);
     display: flex;
 }
